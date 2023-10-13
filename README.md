@@ -2,15 +2,16 @@
 **WINDOWS**
 
 **1. Running Windows Server VM on Amazon EC2**
-![image](https://github.com/MariiaSelivanova/lab2/assets/145068977/9512ff67-a810-4049-9ac1-b4df996642d9)
-![image](https://github.com/MariiaSelivanova/lab2/assets/145068977/dbe4d2b9-8791-4340-94f4-415a5f65ef06)
-![image](https://github.com/MariiaSelivanova/lab2/assets/145068977/4bb02a39-4a85-4eba-a855-02e53c0ce5f7)
-![image](https://github.com/MariiaSelivanova/lab2/assets/145068977/9a3aa9a9-85c9-4776-94d7-6feafc331a41)
+![1](https://github.com/MariiaSelivanova/lab2/assets/145068977/aec8be37-01d9-4e31-b946-ce9b9bef3ab0)
+![2](https://github.com/MariiaSelivanova/lab2/assets/145068977/28624ac4-73ce-4890-8138-9fe8a24d55ee)
+![2](https://github.com/MariiaSelivanova/lab2/assets/145068977/ada5d9fa-9870-4aab-9168-6b3f4d69ce1c)
+![4](https://github.com/MariiaSelivanova/lab2/assets/145068977/29989711-c3df-44e6-9c46-30f352c37d22)
 
 **2. Connecting To Windows Instance**
 
-![image](https://github.com/MariiaSelivanova/lab2/assets/145068977/c1a0f837-76cf-4653-a711-a3d2988dddc0)
-![image](https://github.com/MariiaSelivanova/lab2/assets/145068977/2e9fabc8-ef6d-4088-8d61-2cf25e7cf207)
+![5](https://github.com/MariiaSelivanova/lab2/assets/145068977/1dcc6dd1-5fac-4df5-bc79-b5483ed235ef)
+![6](https://github.com/MariiaSelivanova/lab2/assets/145068977/e72b7164-68ab-413c-8e8f-5d0aa3eededd)
+
 
 **LINUX**
 
